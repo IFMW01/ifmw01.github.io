@@ -4,12 +4,16 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+This space will be a place for me to share and log the exciting and (hopefully) interesting things that i have learnt on my 19 years on this planet, it's not much but it's honest work
 
-### More Information
+### More about me
 
-A place to include any other types of information that you'd like to include about yourself.
+* Studing a BSC in Computer Science in London
+* English fanatic, I love all things Oscar Wilde and F Scott Fitzgerald 
+* I love sport 
+* ASAP Rocky enthusiast 
+* AFK you'd catch me in a fire fit 
 
-### Contact me
+### Blow up my DM's
 
-[email@domain.com](mailto:email@domain.com)
+[israel.mason.williams@gmail.com](mailto:israel.mason.williams@gmail.com)
